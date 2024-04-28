@@ -1,0 +1,44 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+h1,
+h2,
+h3 {
+    background-color: greenyellow;
+    font-weight: 900;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+p,
+li,
+a {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+a {
+    background-color: greenyellow;
+    color: black;
+}
+
+img  {
+    border: 6px solid;
+    border-color: greenyellow;
+    border-radius: 50px;
+}
