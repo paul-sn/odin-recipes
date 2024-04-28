@@ -38,6 +38,8 @@ a {
 }
 
 img  {
+    height: auto;
+    max-width: 100%;
     border: 6px solid;
     border-color: greenyellow;
     border-radius: 50px;
